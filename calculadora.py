@@ -13,3 +13,8 @@ def mult (num1,num2):
     mult= num1 * num2
     return mult
 print("Resultado da Multiplicação", mult(10,6))
+
+def div (num1,num2):
+    div= num1/num2
+    return div
+print("Resultado da Divisão", div(20,4))
