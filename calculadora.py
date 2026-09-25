@@ -20,3 +20,10 @@ def div (num1,num2):
     div= num1/num2
     return div
 print("Resultado da Divisão", div(20,4))
+
+#Função para calcular a raiz
+
+def calculaRaiz(num):
+    resultado=math.sqrt(math)
+    return resultado
+print(f"Resultado da raiz", {calculaRaiz(81)})
